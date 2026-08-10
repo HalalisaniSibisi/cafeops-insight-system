@@ -102,7 +102,25 @@ cafeops-insight-system/
 | Power BI | Dashboard | Owner-level analytics and visualisation |
 | Draw.io | Design | ERD and system architecture diagrams |
 | Visual Studio | IDE | Primary development environment |
+---
+## Evolution
 
+### V1 — Desktop
+C# WinForms application for café operations.
+
+### V2 — Web
+ASP.NET MVC application designed for browser-based
+multi-branch access.
+
+### V3 — Analytics
+Python/Spark pipeline transforming transactional data
+through Bronze, Silver and Gold layers.
+
+### V4 — Cloud
+Azure-based analytical storage and processing.
+
+### V5 — Business Intelligence
+Power BI dashboards for management decision-making.
 ---
 
 ## 🗺️ Roadmap
